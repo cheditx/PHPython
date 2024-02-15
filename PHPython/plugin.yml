@@ -1,0 +1,6 @@
+name: PHPython
+main: cheditx\PHPython
+author: cheditx
+version: 0.0.1
+api: 5.0.0
+description: Python with PHP???
