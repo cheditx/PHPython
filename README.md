@@ -7,7 +7,7 @@ Create a Python file in the plugin_data/PHPython folder, with any name, but endi
 
 ## welcome.py
 
-```
+```python
 import base64
 import json
 import sys
