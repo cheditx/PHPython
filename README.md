@@ -6,7 +6,9 @@ This plugin allows you to use Python with PHP on PocketMine-MP.
 Create a Python file in the plugin_data/PHPython folder, with any name, but ending with .py, then you need to insert the name into the config.yml.
 
 ## welcome.py
-```import base64
+
+```
+import base64
 import json
 import sys
 
@@ -40,7 +42,8 @@ class PHPython:
     def PlayerQuitEvent(self, player: Player) -> str:
         self.output(f'§8[§c-§8] §c{player.getName()}')
 
-PHPython()```
+PHPython()
+```
 
 ⚠️## WARNING ⚠️
 
