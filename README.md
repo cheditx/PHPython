@@ -45,6 +45,6 @@ class PHPython:
 PHPython()
 ```
 
-⚠️## WARNING ⚠️
+# ⚠️WARNING ⚠️
 
 This plugin is not suitable for serious projects, it was created out of boredom, in case anyone wants to turn it into something serious they are free to use this code as a basis.
